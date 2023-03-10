@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2023-02-04
+img: StrandNikiti.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: By Ben 
+description: Willkommen in unserem wunderschönen Haus in Nikiti, Chalkidiki! Unser Haus befindet sich auf einem Berg und bietet eine atemberaubende Aussicht auf die Stadt Nikiti. Es ist nur 90 km (60 Minuten mit dem Auto) vom Flughafen Thessaloniki entfernt und die Altstadt ist nur 10 Minuten zu Fuß erreichbar. Das Meer mit seinen zahlreichen hervorragenden Restaurants ist nur 5 Minuten mit dem Auto entfernt oder 30 Minuten zu Fuß. Unser Haus ist sehr gut ausgestattet und voll klimatisiert, damit Sie sich während Ihres Aufenthalts rundum wohl fühlen. Die Küche ist voll ausgestattet und eignet sich perfekt für das Zubereiten von Mahlzeiten für die Familie oder Freunde. Ein Highlight des Hauses sind die Balkone, von denen aus man den Sonnenuntergang in vollen Zügen genießen kann. Kommen Sie und genießen Sie Ihren Urlaub in Nikiti, Chalkidiki in unserem gemütlichen und komfortablen Haus. Wir freuen uns darauf, Sie begrüßen zu dürfen!
 ---
