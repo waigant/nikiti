@@ -16,7 +16,7 @@ img: cabin.png
 alt: image-alt
 project-date: January 2020
 client: The Client
-category: Web Development
+category: By Ben 
 description: The description of the project
 
 ---
